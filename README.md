@@ -3,6 +3,8 @@
 Learning programming effectively often boils down to structured approaches that build retention, problem-solving habits, and a resilient mindset.
 
 - [programming fundamentals](guide/start.md)
+- [mindset](guide/mindset.md)
+- [course recs for absolute beginners](guide/course-recs.md)
 - [start solving problems early](guide/problems-early.md)
 - [ask good questions](guide/ask-good-questions.md)
 - [read documentation](guide/read-docs.md)

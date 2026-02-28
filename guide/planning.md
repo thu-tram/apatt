@@ -1,5 +1,7 @@
 # planning
 
+**Source**: [How to Plan and Build a Programming Project](https://www.peterlunch.com/blog/how-to-plan-and-build-a-programming-project)
+
 In this article, I am going explain how to plan and build a programming project. I will show you how to break down a programming project, so that you can start making awesome projects to help you level up your coding skills.
 
 What this article isn't is a post on how to structure your folders, the best practices when building a project or how to set up your VS code extensions to ensure clean code when building. It is an article to help code newbies feel less intimidated as they attempt to leave tutorial purgatory and build their own coding projects.
@@ -148,7 +150,3 @@ The key is to clearly define the project, set up your workflow and then break th
 If you see someone on r/learnprogramming in the future struggling to get out of tutorial purgatory, don't just tell them to build. Tell them how to plan and build.
 
 Planning is great, but the key is to then start and build. So go forth and build amazing projects and level up your coding skills and share your progress with me on [twitter](https://twitter.com/thelynchpinau).
-
-## Source
-
-[How to Plan and Build a Programming Project](https://www.peterlunch.com/blog/how-to-plan-and-build-a-programming-project)

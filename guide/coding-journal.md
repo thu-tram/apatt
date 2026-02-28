@@ -1,5 +1,7 @@
 # keep a coding journal
 
+**Source**: [The Power of Keeping a Coding Journal](https://www.thomasburette.com/blog/2014/06/25/the-power-of-keeping-a-coding-journal/)
+
 25 Jun 2014
 
 _This post was inspired by the tool [jrnl](http://maebert.github.io/jrnl/index.html) which has been mentioned on hacker news._
@@ -56,7 +58,3 @@ The coding journal doesn’t prevent me writing from writing bugs. It helps me m
 I wouldn’t say that the coding journal is painless. Logging needs some effort, you’re always evaluating in your mind if you need to write this thing or that thing down. In fact it can be a hindrance in some cases and cause a form of analysis paralysis. You look at all the loose ends and wonder how you’ll ever tie everything down together.
 
 It has never become a habit and I find myself tending to be reluctant to get into the logging thinking mode. I found I shy away from using the journal for small projects/tasks altogether.
-
-## Source
-
-[The Power of Keeping a Coding Journal](https://www.thomasburette.com/blog/2014/06/25/the-power-of-keeping-a-coding-journal/)

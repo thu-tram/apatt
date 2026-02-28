@@ -1,5 +1,7 @@
 # debugging
 
+**Source**: [What is Debugging? How to Debug Your Code](https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code)
+
 ![What is Debugging? How to Debug Your Code for Beginners](assets/debugging/pexels-mike-198101.jpg)
 
 In this article we'll talk about what debugging is, how to debug your code, and how you can get better at it.
@@ -525,9 +527,3 @@ As we've seen, there're plenty of things we can do, both from a mental and from 
 Hope this helped and see you in the next one!
 
 You can also follow me on [Twitter](https://twitter.com/CoccaGerman) and [LinkedIn](https://www.linkedin.com/in/germancocca/).
-
-## Source
-
-[What is Debugging? How to Debug Your Code](https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code)
-
-[Debugging Code for Absolute Beginners](https://learn.microsoft.com/en-us/visualstudio/debugger/debugging-absolute-beginners)

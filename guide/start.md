@@ -1,6 +1,6 @@
 # programming fundamentals
 
-_I hope mods are okay with this. I also published this text on some other page so it is not stolen._
+**Source**: [How to start programming from zero](https://old.reddit.com/r/learnprogramming/comments/pxg54p/how_to_start_programming_from_zero/)
 
 ## Intro
 
@@ -160,7 +160,7 @@ In computer science, a [relational operator](https://en.wikipedia.org/wiki/Relat
 
 The result of the evaluation is either true or false. Relational operators are used for branching which I explained above.
 
-Operators are: equal to (==), not equal to (≠), greater than (>), less than (<), greater than or equal to (≥), less than or equal to (≤).
+Operators are: equal to (`==`), not equal to (≠), greater than (>), less than (<), greater than or equal to (≥), less than or equal to (≤).
 
 ### Boolean operations
 
@@ -209,7 +209,3 @@ Programming is not hard as it might seem. You need to be patient with yourself, 
 I just want to point out the importance of starting with easier tasks and then progressing towards some bigger project you might want to build. You can not learn some foreign language over the night but you will get better and better with it over time - it is the same with programming.
 
 When you learn the syntax of some programming language try to solve tasks from the homework chapter with that programming language.
-
-## Source
-
-[How to start programming from zero](https://old.reddit.com/r/learnprogramming/comments/pxg54p/how_to_start_programming_from_zero/)

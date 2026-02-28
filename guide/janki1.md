@@ -1,3 +1,7 @@
+# Janki 1
+
+**Source**: [Janki Method — Using SRS to Improve Programming](https://www.semicolonandsons.com/articles/janki-method)
+
 **EDIT: Update To JANKI Method** For many years after I wrote this post I have continued to use flashcards to learn and have made a number of refinements to my recommendations. I summarised these points in [Janki Method Refined](http://www.jackkinsella.ie/articles/janki-method-refined), part 2 of a separate article, [Guide to Autodidactism](https://drive.google.com/file/d/1JCHkqVoX598Ob_111khrGoJ5cpeh_ahU/view?usp=sharing), and, in 2020, within a series of YouTube videos: {: .janki-rule}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kshXDo8psj8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
@@ -258,6 +262,3 @@ I believe that if you follow the system exactly as described above, you will lea
 - [Want to Remember Everything You'll Ever Learn? Surrender to This Algorithm](http://www.wired.com/medtech/health/magazine/16-05/ff_wozniak?currentPage=all)
 - [Genius and Creativity](http://www.supermemo.com/articles/genius.htm)
 
-## Source
-
-[Janki Method — Using SRS to Improve Programming](https://www.semicolonandsons.com/articles/janki-method)

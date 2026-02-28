@@ -1,8 +1,10 @@
 # ask good questions
 
+**Source**: [How to ask good questions](https://jvns.ca/blog/good-questions/)
+
 Asking good questions is a super important skill when writing software. I’ve gotten way better at it over the years (to the extent that it’s something my coworkers comment on a lot). Here are a few guidelines that have worked well for me!
 
-[![](assets/ask-good-questions/questions.png)](https://jvns.ca/images/questions.svg)
+![](assets/ask-good-questions/questions.png)
 
 ### [asking bad questions is ok](#asking-bad-questions-is-ok)
 

@@ -1,5 +1,7 @@
 # build your first real project
 
+Source: [Build Your First Coding Project and Avoid Tutorial Hell](https://blog.boot.dev/education/building-your-first-coding-project)
+
 While “real” hell may or may not exist (no need to get into religious beliefs here), tutorial hell is _very_ real.
 
 My definition of tutorial hell goes something like this:
@@ -98,7 +100,3 @@ Get your project out into the world! Again, the purpose of your _first-ever_ per
 ### Find a problem with this article?
 
 [Report an issue on GitHub](https://github.com/bootdotdev/blog/issues)
-
-## Source
-
-[Build Your First Coding Project and Avoid Tutorial Hell](https://blog.boot.dev/education/building-your-first-coding-project)

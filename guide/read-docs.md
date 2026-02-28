@@ -1,5 +1,7 @@
 # read documentation
 
+**Source**: [Reading Documentation: A Practical Approach for Beginners](https://gcdi.commons.gc.cuny.edu/2022/10/18/reading-documentation-a-practical-approach-for-beginners/)
+
 When working with programming languages and software libraries, you have likely been referred to “the documentation” for help with understanding how to use a tool. However, as you may have experienced, these resources can be overwhelming, large, complex, and confusing.
 
 Learning to read documentation is an important skill, but one that takes time and experience.
@@ -82,6 +84,3 @@ Once you have found what looks like a solution to your question, _then_ read the
 
 As always, for more useful advice, be sure to check out the workshops, guides, and other resources we offer at the GCDI! You can peruse our offerings at [the main website here](https://gcdi.commons.gc.cuny.edu/).
 
-## Source
-
-[Reading Documentation: A Practical Approach for Beginners](https://gcdi.commons.gc.cuny.edu/2022/10/18/reading-documentation-a-practical-approach-for-beginners/)

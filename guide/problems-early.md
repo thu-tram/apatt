@@ -1,5 +1,7 @@
 # start solving problems as soon as possible
 
+**Source**: [Advice to beginners - start solving problems as soon as possible!](https://old.reddit.com/r/learnprogramming/comments/14tnnwb/advice_to_beginners_start_solving_problems_as/)
+
 I've spent more than a thousand hours working with students of all different levels on their programming skills over the past two years. The ones who struggle the most have one thing in common: when faced with a new problem, they don't know where to start. Here's why I think that happens, and how you can avoid it.
 
 ---
@@ -34,7 +36,3 @@ I've been thinking about how to teach general problem solving, so let me know if
 
 Hope this helps,  
 Jimmy
-
-## Source
-
-[Advice to beginners - start solving problems as soon as possible!](https://old.reddit.com/r/learnprogramming/comments/14tnnwb/advice_to_beginners_start_solving_problems_as/)

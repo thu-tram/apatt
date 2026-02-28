@@ -1,5 +1,7 @@
 # read other people's code
 
+**Source**: [How to Quickly and Effectively Read Other People’s Code](https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code)
+
 Just the other day, a fellow STCer (Self-Taught Coder) asked me the following question:
 
 > “How do you go about understanding someone else’s code? I am starting to feel more comfortable with my own code, but whenever I try to look at something someone else wrote I feel totally lost. I know some of this is unavoidable, especially if the code is poorly (or not at all) documented, but right now I have no strategy at all. Any tips would be greatly appreciated!”
@@ -123,7 +125,3 @@ From Idea To Launch
 2.  **helps you connect with other programmers**, furthering your exposure to examples of others’ code, techniques, and thought processes.
 
 I always aim to practice what I preach. Be sure to [read more about the course](https://selftaughtcoders.com/from-idea-to-launch/) if you’re interested in building and launching your own web app.
-
-## Source
-
-[How to Quickly and Effectively Read Other People’s Code](https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code)
