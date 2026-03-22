@@ -261,4 +261,3 @@ I believe that if you follow the system exactly as described above, you will lea
 - [20 Rules for Formulating Knowledge in Learning](http://www.supermemo.com/articles/20rules.htm)
 - [Want to Remember Everything You'll Ever Learn? Surrender to This Algorithm](http://www.wired.com/medtech/health/magazine/16-05/ff_wozniak?currentPage=all)
 - [Genius and Creativity](http://www.supermemo.com/articles/genius.htm)
-

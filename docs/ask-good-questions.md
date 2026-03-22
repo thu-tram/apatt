@@ -6,7 +6,7 @@ Asking good questions is a super important skill when writing software. I’ve g
 
 ![](assets/ask-good-questions/questions.png)
 
-### [asking bad questions is ok](#asking-bad-questions-is-ok)
+### asking bad questions is ok
 
 I’m actually kind of a big believer in asking dumb questions or questions that aren’t “good”. I ask people kind of dumb questions all the time, questions that I could have answered with Google or by searching our codebase. I mostly try not to, but sometimes I do it anyway and I don’t think it’s the end of the world.
 
@@ -14,13 +14,13 @@ So this list of strategies isn’t about “here are all the things you have to 
 
 If someone is refusing to answer your questions unless they’re “good”, I wrote a different blog post for them to read: [How to answer questions in a helpful way](https://jvns.ca/blog/answer-questions-well/)
 
-### [what’s a good question?](#what-s-a-good-question)
+### what’s a good question?
 
 Our goal is going to be to ask questions about technical concepts that are **easy to answer**. I often have somebody with me who has a bunch of knowledge that I’d like to know too, but they don’t always know exactly how to explain it to me in the best way.
 
 If I ask a good series of questions, then I can help the person explain what they know to me efficiently and guide them to telling me the stuff I’m interested in knowing. So let’s talk about how to do that!
 
-### [State what you know](#state-what-you-know)
+### State what you know
 
 This is one of my favorite question-asking techniques! This kind of question basically takes the form
 
@@ -43,7 +43,7 @@ The answer I got was super super helpful, exactly what I was looking for. It too
 
 Stating your understanding is not at all easy (it takes time to think about what you know and clarify your thoughts!!) but it works really well and it makes it a lot easier for the person you’re asking to help you.
 
-### [Ask questions where the answer is a fact](#ask-questions-where-the-answer-is-a-fact)
+### Ask questions where the answer is a fact
 
 A lot of the questions I have start out kind of vague, like “How do SQL joins work?”. That question isn’t awesome, because there are a lot of different parts of how joins work! How is the person even supposed to know what I’m interested in learning?
 
@@ -56,7 +56,7 @@ I like to ask questions where the answer is a straightforward fact. For example,
 
 When I ask super specific questions like this, the person I’m asking doesn’t always know the answer (which is fine!!) but at least they understand the _kind_ of question I’m interested in – like, I’m obviously not interested in knowing how to _use_ a join, I want to understand something about the implementation details and the algorithms.
 
-### [Be willing to say what you don’t understand](#be-willing-to-say-what-you-don-t-understand)
+### Be willing to say what you don’t understand
 
 Often when someone is explaining something to me, they’ll say something that I don’t understand. For example, someone might be explaining something about databases to me and say “well, we use optimistic locking with MySQL, and so…”. I have no idea what “optimistic locking” is. So that would be a good time to ask! :)
 
@@ -66,7 +66,7 @@ The more I do this, the more comfortable I feel asking someone to clarify. in fa
 
 This also creates space for the question _answerer_ to admit when they’ve reached the end of their knowledge! Very frequently when I’m asking someone questions, I’ll ask something that they don’t know. People I ask are usually really good at saying “nope, I don’t know that!”
 
-### [Identify terms you don’t understand](#identify-terms-you-don-t-understand)
+### Identify terms you don’t understand
 
 When I started at my current job, I started on the data team. When I started looking at what my new job entailed, there were all these words! Hadoop, Scalding, Hive, Impala, HDFS, zoolander, and more. I had maybe heard of Hadoop before but I didn’t know what basically any of these words meant. Some of the words were internal projects, some of them were open source projects. So I started just by asking people to help me understand what each of the terms meant and the relationships between them. Some kinds of questions I might have asked:
 
@@ -76,7 +76,7 @@ When I started at my current job, I started on the data team. When I started loo
 
 I actually wrote a ‘dictionary’ of all the terms because there were so many of them, and understanding what all the terms meant really helped me orient myself and ask better questions later on.
 
-### [Do some research](#do-some-research)
+### Do some research
 
 When I was typing up those SQL questions above, I typed “how are sql joins implemented” into Google. I clicked some links, saw “oh, I see, sometimes there is sorting, sometimes there are hash joins, I’ve heard about those”, and then wrote down some more specific questions I had. Googling a little first helped me write slightly better questions!
 
@@ -84,7 +84,7 @@ That said, I think people sometimes harp too much on “never ask a question wit
 
 But doing research is really useful, and it’s actually really fun to be able to do enough research to come up with a set of awesome questions.
 
-### [Decide who to ask](#decide-who-to-ask)
+### Decide who to ask
 
 I’m mostly talking here about asking **your coworkers** questions, since that’s where I spend most of my time.
 
@@ -101,7 +101,7 @@ Also, I usually spend more time asking people who I’m closer to questions – 
 
 [How to ask questions the smart way by ESR](http://www.catb.org/~esr/faqs/smart-questions.html) is a popular and pretty hostile document (it starts out poorly with statements like ‘We call people like this “losers”’, and doesn’t get much better). It’s also about **asking questions to strangers on the internet**. Asking strangers on the internet questions is a super useful skill and can get you really useful information, but it’s also the “hard mode” of asking questions. The person you’re talking to knows very little about your situation, so it helps to be proportionally more careful about stating what exactly you want to know. I think “How to ask questions the smart way” puts an extremely unreasonable burden on question-askers (it says that someone should exhaust every other possible option to get the information they want before asking a question otherwise they’re a “lazy sponge”), but the “How To Answer Questions in a Helpful Way” section is good.
 
-### [Ask questions to show what’s not obvious](#ask-questions-to-show-what-s-not-obvious)
+### Ask questions to show what’s not obvious
 
 A more advanced form of question asking is asking questions to reveal hidden assumptions or knowledge. This kind of question actually has two purposes – first, to get the answers (there is probably information one person has that other people don’t!) but also to point out that there _is_ some hidden information, and that sharing it is useful.
 
@@ -117,7 +117,7 @@ The “The Art of Asking Questions” section of the [Etsy’s Debriefing Facili
 
 These kinds of questions (that seem pretty basic, but are not actually obvious) are especially powerful when someone who’s in a position of some authority asks them. I really like it when a manager / senior engineer asks a basic but important question like “how did you know the database was down?” because it creates space for less-senior people to ask the same kinds of questions later.
 
-### [Answer questions.](#answer-questions)
+### Answer questions.
 
 One of my favorite parts of [André Arko’s great How to Contribute to Open Source post](http://andre.arko.net/2016/11/12/how-to-contribute-to-open-source/) is where he says
 
@@ -125,7 +125,7 @@ One of my favorite parts of [André Arko’s great How to Contribute to Open Sou
 
 If you’re ramping up on a new project, **answering** questions from people who are learning the stuff you just learned can be a really awesome way to solidify your knowledge. Whenever I answer a question about a new topic for the first time I always feel like “omg, what if I answer their question wrong, omg”. But usually I can answer their question correctly, and then I come away feeling awesome and like I understand the subject better!
 
-### [Questions can be a huge contribution](#questions-can-be-a-huge-contribution)
+### Questions can be a huge contribution
 
 Good questions can be a great contribution to a community! I asked a bunch of questions about CDNs a while back on twitter and wrote up the answers in [CDNs aren’t just for caching](http://jvns.ca/blog/2016/04/29/cdns-arent-just-for-caching/). A lot of people told me they really liked that blog post, and I think that me asking those questions helped a lot of people, not just me.
 
